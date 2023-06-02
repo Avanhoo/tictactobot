@@ -613,10 +613,14 @@ The board design is similar to the pieces, having a black base and a colorful to
 The box is pretty simple; it's a box with a servo in it, which spins the arm on top of the box. It can also hold the metro M4, a battery pack, and all of the wiring. It has a handle on the back of it so the batteries can be changed out.
 The arm is a rack and pinion gear set that helps position the magnet thing along with the servo in the box. Note that one of the gears is 3D printed.
 It was originally 2 big gears connected to 3 small gears to create the gear ratio.
+     
 ![image](https://github.com/jvaugha3038/tictactobot/assets/112961338/6bdf4a24-5df9-48dc-8946-23744670ae74)
+     
 ## The Magnet thing a.k.a the Pick-Uppy Part
 This part is responsible for picking up and dropping pieces, and it's attached to the arm. The servo lowers a magnet attached to a piece of string, which then connects to the magnet in a piece. Then, it can raise the magnet, disconnecting the piece and letting it fall onto the board.
+     
 ![image](https://github.com/jvaugha3038/tictactobot/assets/112961338/7e5bf1fa-a4a1-4e7e-ad3a-5fa31a9c543d)
+     
 ## The Whole Thingy
 ![image](https://github.com/jvaugha3038/tictactobot/assets/112961338/8314c021-9074-407b-83d8-fbfc39e086c0)
 
