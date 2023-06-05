@@ -38,7 +38,7 @@ Our proof of concept was planned to be a small-scale rack and pinion gear that w
      
 <p>
     
-```
+```python
 import board
 from time import sleep
 import random
